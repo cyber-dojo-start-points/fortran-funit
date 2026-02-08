@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/fortran_funit:f13f8ad",
-  "display_name": "Fortran, FUnit",
+  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:b659ce9",
+  "display_name": "Fortran 15.2.0, FUnit 0.12.4",
   "visible_filenames": [
     "hiker.fun",
     "hiker.f90",
