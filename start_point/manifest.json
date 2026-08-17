@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:b659ce9",
+  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:45508af",
   "display_name": "Fortran 15.2.0, FUnit 0.12.4",
   "language": [
     "Fortran",
@@ -14,6 +14,7 @@
     "hiker.f90",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".f90",
     ".fun"
