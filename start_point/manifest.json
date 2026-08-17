@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:45508af",
+  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:7c1ad0c",
   "display_name": "Fortran 15.2.0, FUnit 0.12.4",
   "language": [
     "Fortran",
