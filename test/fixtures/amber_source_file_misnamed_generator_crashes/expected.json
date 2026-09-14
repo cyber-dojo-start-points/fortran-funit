@@ -1,0 +1,9 @@
+{
+  "matches": [
+    "no implicit conversion of nil into String \\(TypeError\\)"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^computing dependencies$": 0
+  }
+}

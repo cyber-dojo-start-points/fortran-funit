@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^  \\*Assert_True failed\\* in test the_answer_is_three_digits_long \\[hiker\\.fun:10\\]$": 1,
+    "^  \\*Assert_[A-Za-z_]+ failed\\* in test [a-z_]+ \\[hiker\\.fun:[0-9]+\\]$": 1,
+    "^Passed 2 of 3 possible asserts comprising 2 of 3 tests\\.$": 1,
+    "^ hiker:  failed   <<<<<$": 1,
+    "^ hiker:  passed$": 0
+  }
+}

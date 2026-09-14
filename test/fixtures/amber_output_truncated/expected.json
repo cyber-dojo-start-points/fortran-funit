@@ -1,0 +1,12 @@
+{
+  "truncated": true,
+  "matches": [
+    "^debug: answer was called, i is 0$",
+    "^ hiker test suite:$"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^Passed ": 0,
+    "failed\\*": 0
+  }
+}

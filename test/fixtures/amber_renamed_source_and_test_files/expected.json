@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "Error: could not find test suite hiker\\.fun",
+    "^ Test suites available in this directory:$",
+    "^ fizz_buzz$"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^computing dependencies$": 0
+  }
+}

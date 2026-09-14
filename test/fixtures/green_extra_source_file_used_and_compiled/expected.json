@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "max_output_lines": 25,
+  "match_counts": {
+    "^\\(cd \\.; gfortran  -I\\. -c checksum\\.f90\\)$": 1,
+    "^Passed 1 of 1 possible asserts comprising 1 of 1 tests\\.$": 1,
+    "^ hiker:  passed$": 1
+  }
+}

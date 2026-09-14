@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^hiker\\.f90:4:[0-9]+:$",
+    "^Error: Expected a right parenthesis in expression at \\(1\\)$"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^Passed ": 0
+  }
+}

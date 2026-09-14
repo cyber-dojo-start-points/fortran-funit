@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "\\*Error: assert_true assertion not in a test block \\[hiker\\.fun:0\\]"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^Passed ": 0,
+    "^computing dependencies$": 0
+  }
+}

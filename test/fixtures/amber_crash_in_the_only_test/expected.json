@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^Program received signal SIGSEGV: Segmentation fault - invalid memory reference\\.$"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^Passed ": 0,
+    "failed\\*": 0
+  }
+}

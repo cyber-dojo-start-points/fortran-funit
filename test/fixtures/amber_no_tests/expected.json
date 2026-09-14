@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Passed 0 of 0 possible asserts comprising 0 of 0 tests\\.$": 1,
+    "^ hiker:  passed$": 1
+  }
+}

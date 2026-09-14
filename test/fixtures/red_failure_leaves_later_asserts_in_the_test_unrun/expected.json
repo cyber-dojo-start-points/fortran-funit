@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^  \\*Assert_Equal failed\\* in test life_the_universe_and_everything \\[hiker\\.fun:9\\]$": 1,
+    "^  \\*Assert_True failed\\* in test ": 0,
+    "^Passed 0 of 3 possible asserts comprising 0 of 1 tests\\.$": 1,
+    "^ hiker:  failed   <<<<<$": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^Error: Function 'ansewr' at \\(1\\) has no IMPLICIT type$",
+    "^hiker_fun\\.f90:[0-9]+:[0-9]+:$"
+  ],
+  "match_counts": {
+    "^==========\\[ SUMMARY \\]==========$": 0,
+    "^Passed ": 0
+  }
+}
