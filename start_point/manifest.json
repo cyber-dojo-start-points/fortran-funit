@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:fc5ec19",
-  "display_name": "Fortran 15.2, FUnit 0.12",
+  "image_name": "ghcr.io/cyber-dojo-languages/fortran_funit:4ff3d25@sha256:fdd3311c8a2a64d4f96283f8bff4d0eca25f7e466909d39b07bb84d103525e27",
+  "display_name": "Fortran 15.2.0, FUnit 0.12.4",
   "language": [
     "Fortran",
-    "15.2"
+    "15.2.0"
   ],
   "test_framework": [
     "FUnit",
-    "0.12"
+    "0.12.4"
   ],
   "visible_filenames": [
     "hiker.fun",
